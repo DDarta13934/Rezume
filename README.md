@@ -3,5 +3,6 @@
 https://drive.google.com/drive/folders/12lX0ASNO3007S73FO5asaGV6TDQl9YBc?usp=drive_linkPrezentatsia1.pptx
 Все что связанно с алгоритмизацией:
 https://drive.google.com/drive/folders/1rewLrvBhAd5tu49pnWTVtVjIKB1J287Z
+|------|
 Создание телеграмм бота:
 https://colab.research.google.com/drive/1ai9iZuJZPU3YdEgWEKfOO0XDHZ85nMQO?usp=sharing
