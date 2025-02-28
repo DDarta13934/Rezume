@@ -8,3 +8,5 @@ https://drive.google.com/drive/folders/1rewLrvBhAd5tu49pnWTVtVjIKB1J287Z
 
 Создание телеграмм бота:
 https://colab.research.google.com/drive/1ai9iZuJZPU3YdEgWEKfOO0XDHZ85nMQO?usp=sharing
+ТГ бот номер 2:
+https://colab.research.google.com/drive/1c99QhTD3ciq96-0Su2A8yjWlYxJidURH
