@@ -12,3 +12,4 @@ https://colab.research.google.com/drive/1ai9iZuJZPU3YdEgWEKfOO0XDHZ85nMQO?usp=sh
 https://colab.research.google.com/drive/1c99QhTD3ciq96-0Su2A8yjWlYxJidURH
 Дравиво: https://drive.google.com/file/d/1hURzyWB_o6qZ9P7XGhKVuy8hxuwHM5Aq/view?usp=drive_link
 
+Конкурс бот : https://docs.google.com/document/d/1qv4tRpRiJP3v-csnHYgkzcGmI0nTowq9C3m78-hxhdM/edit?usp=sharing
